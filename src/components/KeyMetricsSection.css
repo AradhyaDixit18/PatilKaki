@@ -1,0 +1,33 @@
+.key-metrics-section {
+    padding: 60px 20px;
+    background-color: #fff;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .metrics-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .metric-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .metric-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  

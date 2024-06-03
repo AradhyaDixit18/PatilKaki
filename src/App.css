@@ -1,0 +1,19 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+section {
+  padding: 60px 20px;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+p {
+  margin: 0 0 10px 0;
+}
